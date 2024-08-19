@@ -9,7 +9,7 @@ I'm a Computer Science student at the University of Hawaii at Manoa, with the ul
 ## 🛠️ Tech Stack
 
 - **Languages:** CSS, HTML, Java, JavaScript, TypeScript, Python
-- **Frameworks:** Django, Express, Node, React, React Native
+- **Frameworks & Libraries:** Bootstrap, Django, Express, Node, React, React Native
 - **DevOps:** Docker, Expo, Git, Linux
 - **Cloud:** AWS (App Runner, EC2, ECS, ECR, Lambda, S3), Firebase, GCP (Cloud Run)
 - **Testing:** Jest
