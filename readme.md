@@ -16,9 +16,10 @@ I'm a Computer Science student at the University of Hawaii at Manoa, with the ul
 
 ---
 
-## 📂 Open-Source Projects
+## 📂 Projects
 
 - **[Devplate](https://github.com/shortxmas/devplate):** Pull down your personal development templates with a CLI.
+- **[CompSciHi](https://github.com/8bituhm/compscihi):**  Opportunity board website aiming to centralize tech opportunities for Hawaii
 
 ---
 
