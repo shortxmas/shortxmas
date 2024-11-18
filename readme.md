@@ -11,11 +11,10 @@ I'm a Computer Science student at the University of Hawaii at Manoa, with the ul
 ## 🛠️ Technologies I Use
 
 - **Languages:** CSS, HTML, Java, JavaScript, TypeScript, Python
-- **Frameworks & Libraries:** Django, Express, Node, React, React Native, Tailwind
+- **Frameworks & Libraries:** Django, Next, Node, React, React Native, Tailwind
 - **Database:** PostgreSQL
-- **DevOps:** Ansible, Docker, Git, GitHub Actions, Linux, Nginx
-- **Cloud:** AWS (App Runner, EC2, ECS, ECR, Lambda, S3), Firebase
-- **Testing:** Jest
+- **DevOps & Infrastructure:** Ansible, AWS, Docker, GitHub Actions, Kubernetes (MicroK8s), Linux (RedHat, Ubuntu), Nginx
+- **Testing:** Jest, Selenium
 
 ---
 
