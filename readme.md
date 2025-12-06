@@ -10,13 +10,11 @@ I'm a Computer Science student at the University of Hawaii at Manoa, with the ul
 
 ## 🛠️ My Go-to Technologies
 
-- **Languages:** TypeScript, Python, Java
-- **Frameworks & Libraries:** Django, React, Tailwind
+- **Languages & Frameworks:** TypeScript (React, Next.js), Go (Gin)
 - **Database:** PostgreSQL
-- **DevOps & Infrastructure:** Ansible, Docker, GitHub Actions, Kubernetes (MicroK8s), Linux (RedHat, Ubuntu), Nginx
-- **Testing:** Jest
+- **CI/CD & DevOps**: Docker, GitHub Actions, Kubernetes, Terraform
+- **Infrastructure:** AWS, AWS, AWS
 
-Currently learning Rust & GoLang!
 
 <!-- ---
 
